@@ -59,7 +59,9 @@ class App extends Component {
         document.body.style.fontSize = '30px',
           <div id="main">
             <div id="verse-container">
-              <div id="wrap"><iframe id="verse" title="This is a unique title" style={{ width: '100%' }} src={this.state.dataURL} /></div>
+              <div id="wrap">
+                <iframe id="verse" title="This is a unique title" style={{ width: '100%' }} src={this.state.dataURL} />
+              </div>
               <div id="flex-container">
                 <button type="button" className="btn btn-primary" onClick={this.handleClick} style={styles}>New verse</button>
                 <FontAwesomeIcon icon={faCross} style={cross} className="fa-2x" />
