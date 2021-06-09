@@ -14,7 +14,7 @@ This is an ongoing project and features will be added progressively. Below you c
 
 
 
-# See Live app here:
+# See Live App Here:
 https://kevmhughes.github.io/bible-app/
 
 # Tech Stack
