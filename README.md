@@ -5,11 +5,13 @@ Build a free app that allows Christians to access verses from the bible, the wor
 
 This is an ongoing project and features will be added progressively. Below you can see a list of the features available at the present time:
 
-# Features:
+#### Mobile view Features:
 * see random verses taken from the bible
 
 # Screenshots 
-<div src="https://user-images.githubusercontent.com/48656356/121372655-c0848e00-c93e-11eb-92ae-4bcd8d61a6c3.png" width="300px"></div>
+#### Mobile view
+<img src="https://user-images.githubusercontent.com/48656356/121372655-c0848e00-c93e-11eb-92ae-4bcd8d61a6c3.png" width="300">
+
 
 
 # See Live app here:
